@@ -3,4 +3,7 @@
     <string name="button_label_main">send</string>
     <string name="second_activity">Second Activity</string>
     <string name="text_header">Message Received</string>
+    <string name="editText_main">Enter Your Message Here</string>
+    <string name="enviar">Enviar</string>
+    <string name="activity2_name">Second Activity</string>
 </resources>
